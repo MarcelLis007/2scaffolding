@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\views\\ventums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:views\\ventums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\models\\tiendabebidasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:models\\tiendabebidasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\models\\ventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:models\\ventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\storegui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9A4CEC-FF5A-4FC7-A426-19CD470B97B6}|StoreGui.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Views\\Ventums\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventums\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Views\\Ventums\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventums\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:50:34.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedorsController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "Controllers\\ProveedorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:31:37.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAApwHwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:30:40.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TiendaBebidasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Models\\TiendaBebidasDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TiendaBebidasDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Models\\TiendaBebidasDbContext.cs",
+              "RelativeToolTip": "Models\\TiendaBebidasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:27:46.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ventum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Models\\Ventum.cs",
+              "RelativeDocumentMoniker": "Models\\Ventum.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Models\\Ventum.cs",
+              "RelativeToolTip": "Models\\Ventum.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:26:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T00:25:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\StoreGui\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:17:40.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
